@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @SashaAndSeals
+- 👀 I’m interested in coding on python and https://scratch.mit.edu
